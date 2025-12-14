@@ -1,0 +1,13 @@
+2025-12-14 12:20:07.853 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2025-12-14 12:20:07.992 [main] INFO  com.testing.tests.web.BaseWebTest - Setting up WebDriver for browser: chrome
+2025-12-14 12:20:16.627 [main] INFO  com.testing.tests.web.BaseWebTest - Navigated to: https://en.wikipedia.org
+2025-12-14 12:20:16.721 [main] INFO  com.testing.tests.web.BaseWebTest - Closing WebDriver
+2025-12-14 12:20:16.900 [main] INFO  com.testing.tests.web.BaseWebTest - Setting up WebDriver for browser: chrome
+2025-12-14 12:20:18.030 [main] INFO  com.testing.tests.web.BaseWebTest - Navigated to: https://en.wikipedia.org
+2025-12-14 12:20:18.769 [main] INFO  com.testing.tests.web.BaseWebTest - Closing WebDriver
+2025-12-14 12:20:18.946 [main] INFO  com.testing.tests.web.BaseWebTest - Setting up WebDriver for browser: chrome
+2025-12-14 12:20:20.724 [main] INFO  com.testing.tests.web.BaseWebTest - Navigated to: https://en.wikipedia.org
+2025-12-14 12:20:37.043 [main] INFO  com.testing.tests.web.BaseWebTest - Closing WebDriver
+2025-12-14 12:20:37.198 [main] INFO  com.testing.tests.web.BaseWebTest - Setting up WebDriver for browser: chrome
+2025-12-14 12:20:38.952 [main] INFO  com.testing.tests.web.BaseWebTest - Navigated to: https://en.wikipedia.org
+2025-12-14 12:20:48.795 [main] INFO  com.testing.tests.web.BaseWebTest - Closing WebDriver
